@@ -18,3 +18,25 @@ Simple web application designed to search for music on Spotify using the Spotify
 # Prerequisites
 - A modern web browser (e.g., Google Chrome, Mozilla Firefox, Safari)
 - An active internet connection
+- XAMPP installed and running
+
+# Installation and Usage
+1. **Clone the Repository**:
+```bash
+git clone https://github.com/your-username/spotify-music-search.git
+```
+
+2. **Navigate to Project Directory**:
+```bash
+cd spotify-music-search
+```
+
+3. **Move Files to `htdocs`**. Copy the contents of the spotify-music-search directory (including `spotifySearch.html` and any other files) to the htdocs directory inside your XAMPP installation folder (e.g., `C:\xampp\htdocs`).
+
+4. **Start XAMPP Server**. Open the XAMPP Control Panel and start the Apache server.
+
+5. **Open in Browser**. Open your web browser and go to     http://localhost/spotify-music-search/spotifySearch.html.
+
+6. **Configure API Credentials**. Replace your `client-id` and your `client-secret` in the `script.js` file with your actual Spotify API credentials.
+
+7. **Search for Music**. Enter a song name or artist in the search box and click the "Search" button to view results.
