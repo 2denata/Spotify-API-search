@@ -26,7 +26,7 @@ Simple web application designed to search for music on Spotify using the Spotify
 # Installation and Usage
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/your-username/spotify-music-search.git
+git clone https://github.com/2denata/spotify-music-search.git
 ```
 
 2. **Navigate to Project Directory**:
