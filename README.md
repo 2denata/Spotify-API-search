@@ -1,3 +1,6 @@
+![label](https://img.shields.io/badge/Javascript-orange?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 # Spotify-API-search
 
 Simple web application designed to search for music on Spotify using the Spotify Web API. This application allows users to find songs or artists and displays the search results directly on the web page.
